@@ -2,6 +2,10 @@
 // Base Spacing Tool
 // ==========================================================================
 
+@import 'tool-strip-units';
+@import 'tool-rem-calc';
+@import 'tool-global-config';
+
 ////
 /// @group Functions
 ////
@@ -12,9 +16,6 @@
 ///    .gimme-some-spacing {
 ///        margin-bottom: base-spacing(3);
 ///    }
-
-
-@import '../tools.strip-units/strip-units';
 
 @function base-spacing($x: 1) {
     @return rem-calc(global-config(base-unit) * $x);
