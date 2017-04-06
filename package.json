@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.base-spacing",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Base spacing tool",
   "main": "stylesheets/_tool-base-spacing.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "tool-base-spacing",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
