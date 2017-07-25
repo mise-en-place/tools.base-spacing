@@ -1,6 +1,6 @@
 {
   "name": "mep-tools.base-spacing",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Base spacing tool",
   "main": "stylesheets/_tool-base-spacing.scss",
   "keywords": [
