@@ -14,8 +14,8 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.strip-units": "github:mise-en-place/tools.strip-units",
-    "mep-tools.rem-calc": "github:mise-en-place/tools.rem-calc",
-    "mep-tools.global-config": "github:mise-en-place/tools.global-config"
+    "mep-tools.strip-units": "2.0.1",
+    "mep-tools.rem-calc": "2.0.1",
+    "mep-tools.global-config": "2.0.1"
   }
 }
