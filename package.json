@@ -14,8 +14,8 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "@mise-en-place/tools.strip-units": "2.0.1",
-    "@mise-en-place/tools.rem-calc": "2.0.1",
-    "@mise-en-place/tools.global-config": "2.0.1"
+    "@mise-en-place/tools.strip-units": "~3.0.0",
+    "@mise-en-place/tools.rem-calc": "~3.0.0",
+    "@mise-en-place/tools.global-config": "~3.0.0"
   }
 }
