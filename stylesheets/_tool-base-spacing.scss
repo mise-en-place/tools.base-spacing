@@ -2,9 +2,9 @@
 // Base Spacing Tool
 // ==========================================================================
 
-@import '@mise-en-place/tool-strip-units';
-@import '@mise-en-place/tool-rem-calc';
-@import '@mise-en-place/tool-global-config';
+@import '~@mise-en-place/tools.strip-units';
+@import '~@mise-en-place/tools.rem-calc';
+@import '~@mise-en-place/tools.global-config';
 
 ////
 /// @group Functions
