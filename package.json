@@ -1,6 +1,6 @@
 {
   "name": "@mise-en-place/tools.base-spacing",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Base spacing tool",
   "main": "stylesheets/_tool-base-spacing.scss",
   "keywords": [
